@@ -1,0 +1,8 @@
+"warhammer40k"
+{
+	"base"		"helix"
+	"title"		"Warhammer 40k"
+	"author"	"Playin on"
+	"category"	"rp"
+	"menusystem" 	"1"
+}
